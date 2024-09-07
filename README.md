@@ -15,10 +15,6 @@ I'm passionate about turning my imagination into reality through technology. Whe
 ### 🔭 I’m currently working on:
 - **Cyclop OS**: A visionary operating system designed to simplify and enhance productivity. [Check it out!](https://cyclop-os.com)
 - Enhancing my network security skills with real-world projects.
-  
-### 🌱 I’m currently learning:
-- Advanced Network Security techniques.
-- Cloud Computing and Cybersecurity.
 
 ### 🤝 I’m looking to collaborate on:
 - Open-source projects related to networking and security.
@@ -30,15 +26,9 @@ I'm passionate about turning my imagination into reality through technology. Whe
 - Cybersecurity Strategies
 - Anything related to tech & innovation!
 
-### ⚡ Fun fact:
-I love blending creativity and technology, and that’s how **Cyclop OS** came to life. It's my playground for merging art and software!
-
 ---
 
 ## 📫 Let's connect:
-- **Email**: iamrahmonex@gmail.com (replace with actual)
+- **Email**: iamrahmonex@gmail.com
 - [**LinkedIn**](https://www.linkedin.com/in/rahmonex/)
 - [**Twitter**](https://x.com/Rahmonex)
-
----
-Made with ❤️ by Bilel Rahmouni
