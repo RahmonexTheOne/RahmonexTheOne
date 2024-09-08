@@ -20,12 +20,6 @@ I'm passionate about turning my imagination into reality through technology. Whe
 - Open-source projects related to networking and security.
 - Innovative tools that merge AI and cybersecurity.
 
-### 💬 Ask me about:
-- Network Security
-- Custom OS Development
-- Cybersecurity Strategies
-- Anything related to tech & innovation!
-
 ---
 
 ## 📫 Let's connect:
