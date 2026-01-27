@@ -13,7 +13,7 @@ I'm passionate about turning my imagination into reality through technology. Whe
 ---
 
 ### 🔭 I’m currently working on:
-- **Cyclop OS**: A visionary operating system designed to simplify and enhance productivity. [Check it out!](https://cyclop-os.com)
+- **Cyclop OS**: A visionary operating system designed to simplify and enhance productivity. [Check it out!](https://cyclop-tech.com)
 - Enhancing my network security skills with real-world projects.
 
 ### 🤝 I’m looking to collaborate on:
