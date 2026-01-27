@@ -6,7 +6,7 @@ I'm passionate about turning my imagination into reality through technology. Whe
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Cyclop%20OS-blue?style=for-the-badge&logo=internet-explorer)](https://cyclop-os.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Cyclop%20OS-blue?style=for-the-badge&logo=internet-explorer)](https://cyclop-tech.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahmonex/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/RahmonexTheOne)
 
